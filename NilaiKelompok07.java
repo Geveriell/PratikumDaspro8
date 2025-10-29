@@ -1,3 +1,4 @@
+//revisi percobaan 4 
 import java.util.Scanner;
 
 public class NilaiKelompok07 {
